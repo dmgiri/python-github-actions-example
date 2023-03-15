@@ -1,4 +1,4 @@
-name: Dropdowns
+name: Dropdowns.py
 on: push
 jobs:
   my-job:
